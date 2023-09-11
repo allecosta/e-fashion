@@ -44,9 +44,9 @@ require_once "inc/topbar.php";
         </div>
         <div class="col-lg-9">
             <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-0">
-                <a href="" class="text-decoration-none d-block d-lg-none">
+                <!-- <a href="" class="text-decoration-none d-block d-lg-none">
                     <h1 class="m-0 display-5 font-weight-semi-bold"><span class="text-primary font-weight-bold border px-3 mr-1">E</span>Fashion</h1>
-                </a>
+                </a> -->
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -62,7 +62,7 @@ require_once "inc/topbar.php";
                                 <a href="checkout.html" class="dropdown-item">Checkout</a>
                             </div>
                         </div> -->
-                        <a href="contact.html" class="nav-item nav-link">Contato</a>
+                        <a href="contact.php" class="nav-item nav-link">Contato</a>
                     </div>
                     <div class="navbar-nav ml-auto py-0">
                         <a href="" class="nav-item nav-link">Login</a>
@@ -349,7 +349,7 @@ require_once "inc/topbar.php";
 <div class="container-fluid offer pt-5">
     <div class="row px-xl-5">
         <div class="col-md-6 pb-4">
-            <div class="position-relative bg-secondary text-center text-md-right text-white mb-2 py-5 px-5">
+            <div class="position-relative offer-color text-center text-md-right text-white mb-2 py-5 px-5">
                 <img src="assets/img/offer-1.png" alt="">
                 <div class="position-relative" style="z-index: 1;">
                     <h6 class="text-uppercase text-primary mb-3">20% OFF em todos os pedidos</h6>
@@ -359,7 +359,7 @@ require_once "inc/topbar.php";
             </div>
         </div>
         <div class="col-md-6 pb-4">
-            <div class="position-relative bg-secondary text-center text-md-left text-white mb-2 py-5 px-5">
+            <div class="position-relative offer-color text-center text-md-left text-white mb-2 py-5 px-5">
                 <img src="assets/img/offer-2.png" alt="">
                 <div class="position-relative" style="z-index: 1;">
                     <h6 class="text-uppercase text-primary mb-3">20% OFF em todos os pedidos</h6>
