@@ -51,7 +51,7 @@
                                 <a href="checkout.html" class="dropdown-item">Checkout</a>
                             </div>
                         </div> -->
-                        <a href="contact.html" class="nav-item nav-link">Contato</a>
+                        <a href="contact.php" class="nav-item nav-link">Contato</a>
                     </div>
                     <div class="navbar-nav ml-auto py-0">
                         <a href="" class="nav-item nav-link">Login</a>

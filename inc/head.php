@@ -25,6 +25,9 @@
     <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Customized CSS Stylesheet -->
     <link href="assets/css/style.css" rel="stylesheet">
 </head>
 

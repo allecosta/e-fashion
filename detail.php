@@ -133,7 +133,7 @@ require_once "inc/navbar.php";
                     <a class="text-dark px-2" href=""><i class="fab fa-facebook-f"></i></a>
                     <a class="text-dark px-2" href=""><i class="fab fa-twitter"></i></a>
                     <a class="text-dark px-2" href=""><i class="fab fa-linkedin-in"></i></a>
-                    <a class="text-dark px-2" href=""><i class="fab fa-pinterest"></i></a>
+                    <a class="text-dark px-2" href=""><i class="fab fa-instagram"></i></a>
                 </div>
             </div>
         </div>
@@ -206,7 +206,7 @@ require_once "inc/navbar.php";
                                 <li class="list-group-item px-0">
                                     Takimata ea clita labore amet ipsum erat justo voluptua. Nonumy.
                                 </li>
-                                </ul> 
+                            </ul> 
                         </div>
                     </div>
                 </div>
