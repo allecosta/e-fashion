@@ -154,12 +154,12 @@ require_once "inc/navbar.php";
                                 data-toggle="dropdown" 
                                 aria-haspopup="true"
                                 aria-expanded="false">
-                                Sort by
+                                Ordenar por
                             </button>
                             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="triggerId">
-                                <a class="dropdown-item" href="#">Latest</a>
-                                <a class="dropdown-item" href="#">Popularity</a>
-                                <a class="dropdown-item" href="#">Best Rating</a>
+                                <a class="dropdown-item" href="#">Recente</a>
+                                <a class="dropdown-item" href="#">Popular</a>
+                                <a class="dropdown-item" href="#">Classificação</a>
                             </div>
                         </div>
                     </div>

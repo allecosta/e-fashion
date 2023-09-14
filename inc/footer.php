@@ -1,7 +1,7 @@
     <!-- Footer Start -->
-    <div class="container-fluid footer-color text-dark mt-5 pt-5">
+    <div class="container-fluid footer-color mt-5 pt-5">
         <div class="row px-xl-5 pt-5">
-            <div class="col-lg-4 col-md-12 mb-5 pr-3 pr-xl-5">
+            <div class="col-lg-6 col-md-12 mb-5 pr-3 pr-xl-5">
                 <a href="index.php" class="text-decoration-none">
                     <h1 
                         class="mb-4 display-5 font-weight-semi-bold">
@@ -13,7 +13,7 @@
                 <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>contato@efashion.com.br</p>
                 <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>+055 79 345-6789</p>
             </div>
-            <div class="col-lg-8 col-md-12">
+            <div class="col-lg-6 col-md-12">
                 <div class="row">
                     <div class="col-md-4 mb-5">
                         <h5 class="font-weight-bold text-white mb-4">Links Úteis</h5>
@@ -37,7 +37,7 @@
                             <a class="text-dark" href="contact.html"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
                         </div>
                     </div> -->
-                    <div class="col-md-4 mb-5">
+                    <div class="col-md-8 mb-5">
                         <h5 class="font-weight-bold text-white mb-4">Receber Novidades</h5>
                         <form action="">
                             <div class="form-group">

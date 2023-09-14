@@ -45,7 +45,7 @@ require_once "inc/navbar.php";
                     </div>
                     <div class="control-group">
                         <textarea class="form-control bg-secondary" rows="6" id="message" placeholder="Mensagem"
-                            required="required"
+                            required="required" style="resize:none"
                             data-validation-required-message="Favor informar descrever a sua mensagem">
                         </textarea>
                         <p class="help-block text-danger"></p>
