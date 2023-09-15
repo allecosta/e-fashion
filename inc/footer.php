@@ -20,23 +20,9 @@
                         <div class="d-flex flex-column justify-content-start">
                             <a class="text-white mb-2" href="index.php"><i class="fa fa-angle-right mr-2"></i>Home</a>
                             <a class="text-white mb-2" href="shop.php"><i class="fa fa-angle-right mr-2"></i>Loja</a>
-                            <!-- <a class="text-dark mb-2" href="detail.html"><i class="fa fa-angle-right mr-2"></i>Shop Detail</a>
-                            <a class="text-dark mb-2" href="cart.html"><i class="fa fa-angle-right mr-2"></i>Shopping Cart</a>
-                            <a class="text-dark mb-2" href="checkout.html"><i class="fa fa-angle-right mr-2"></i>Checkout</a> -->
                             <a class="text-white" href="contact.php"><i class="fa fa-angle-right mr-2"></i>Contato</a>
                         </div>
                     </div>
-                    <!-- <div class="col-md-4 mb-5">
-                        <h5 class="font-weight-bold text-dark mb-4">Links Úteis</h5>
-                        <div class="d-flex flex-column justify-content-start">
-                            <a class="text-dark mb-2" href="index.html"><i class="fa fa-angle-right mr-2"></i>Home</a>
-                            <a class="text-dark mb-2" href="shop.html"><i class="fa fa-angle-right mr-2"></i>Our Shop</a>
-                            <a class="text-dark mb-2" href="detail.html"><i class="fa fa-angle-right mr-2"></i>Shop Detail</a>
-                            <a class="text-dark mb-2" href="cart.html"><i class="fa fa-angle-right mr-2"></i>Shopping Cart</a>
-                            <a class="text-dark mb-2" href="checkout.html"><i class="fa fa-angle-right mr-2"></i>Checkout</a>
-                            <a class="text-dark" href="contact.html"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
-                        </div>
-                    </div> -->
                     <div class="col-md-8 mb-5">
                         <h5 class="font-weight-bold text-white mb-4">Receber Novidades</h5>
                         <form action="">
@@ -58,13 +44,10 @@
         <div class="row border-top border-light mx-xl-5 py-4">
             <div class="col-md-12 px-xl-0">
                 <p class="mb-md-0 text-center text-white">
-                    &copy; <?= date("Y"); ?>. Todos os ddireitos reservados.<br> Desenvolvido por: 
+                    &copy; <?= date("Y"); ?>. Todos os direitos reservados.<br> Desenvolvido por: 
                     <a class="text-dark font-weight-semi-bold" href="" target="_blank">e-Maker Web</a><br>
                 </p>
             </div>
-            <!-- <div class="col-md-6 px-xl-0 text-center text-md-right">
-                <img class="img-fluid" src="assets/img/payments.png" alt="">
-            </div> -->
         </div>
     </div>
     <!-- Back to Top -->

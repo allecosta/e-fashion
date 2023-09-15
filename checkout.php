@@ -9,12 +9,7 @@ require_once "inc/navbar.php";
 <!-- Page Header Start -->
 <div class="container-fluid bg-secondary mb-5">
     <div class="d-flex flex-column align-items-center justify-content-center" style="min-height: 300px">
-        <!-- <h1 class="font-weight-semi-bold text-uppercase mb-3">Checkout</h1> -->
-        <div class="d-inline-flex">
-            <!-- <p class="m-0"><a href="">Home</a></p>
-            <p class="m-0 px-2">-</p>
-            <p class="m-0">Checkout</p> -->
-        </div>
+        
     </div>
 </div>
 
@@ -62,9 +57,6 @@ require_once "inc/navbar.php";
                         <label>País</label>
                         <select class="custom-select">
                             <option selected>Brasil</option>
-                            <!-- <option>Alagoas</option>
-                            <option>Bahia</option>
-                            <option>Recife</option> -->
                         </select>
                     </div>
                     <div class="col-md-6 form-group">
@@ -139,9 +131,6 @@ require_once "inc/navbar.php";
                         <label>País</label>
                         <select class="custom-select">
                             <option selected>Brasil</option>
-                            <!-- <option>Alagoas</option>
-                            <option>Bahia</option>
-                            <option>Recife</option> -->
                         </select>
                     </div>
                     <div class="col-md-6 form-group">
