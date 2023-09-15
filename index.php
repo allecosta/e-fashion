@@ -44,9 +44,6 @@ require_once "inc/topbar.php";
         </div>
         <div class="col-lg-9">
             <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-0">
-                <!-- <a href="" class="text-decoration-none d-block d-lg-none">
-                    <h1 class="m-0 display-5 font-weight-semi-bold"><span class="text-primary font-weight-bold border px-3 mr-1">E</span>Fashion</h1>
-                </a> -->
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -54,14 +51,6 @@ require_once "inc/topbar.php";
                     <div class="navbar-nav mr-auto py-0">
                         <a href="index.php" class="nav-item nav-link active">Home</a>
                         <a href="shop.php" class="nav-item nav-link">Loja</a>
-                        <!-- <a href="detail.html" class="nav-item nav-link">Shop Detail</a> -->
-                        <!-- <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
-                            <div class="dropdown-menu rounded-0 m-0">
-                                <a href="cart.html" class="dropdown-item">Shopping Cart</a>
-                                <a href="checkout.html" class="dropdown-item">Checkout</a>
-                            </div>
-                        </div> -->
                         <a href="contact.php" class="nav-item nav-link">Contato</a>
                     </div>
                     <div class="navbar-nav ml-auto py-0">
@@ -137,68 +126,6 @@ require_once "inc/topbar.php";
         </div>
     </div>
 </div>
-
-
-<!-- Categories Start -->
-<!-- <div class="container-fluid pt-5">
-    <div class="row px-xl-5 pb-3">
-        <div class="col-lg-4 col-md-6 pb-1">
-            <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
-                <p class="text-right">15 Products</p>
-                <a href="" class="cat-img position-relative overflow-hidden mb-3">
-                    <img class="img-fluid" src="img/cat-1.jpg" alt="">
-                </a>
-                <h5 class="font-weight-semi-bold m-0">Men's dresses</h5>
-            </div>
-        </div>
-        <div class="col-lg-4 col-md-6 pb-1">
-            <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
-                <p class="text-right">15 Products</p>
-                <a href="" class="cat-img position-relative overflow-hidden mb-3">
-                    <img class="img-fluid" src="img/cat-2.jpg" alt="">
-                </a>
-                <h5 class="font-weight-semi-bold m-0">Women's dresses</h5>
-            </div>
-        </div>
-        <div class="col-lg-4 col-md-6 pb-1">
-            <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
-                <p class="text-right">15 Products</p>
-                <a href="" class="cat-img position-relative overflow-hidden mb-3">
-                    <img class="img-fluid" src="img/cat-3.jpg" alt="">
-                </a>
-                <h5 class="font-weight-semi-bold m-0">Baby's dresses</h5>
-            </div>
-        </div>
-        <div class="col-lg-4 col-md-6 pb-1">
-            <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
-                <p class="text-right">15 Products</p>
-                <a href="" class="cat-img position-relative overflow-hidden mb-3">
-                    <img class="img-fluid" src="img/cat-4.jpg" alt="">
-                </a>
-                <h5 class="font-weight-semi-bold m-0">Accerssories</h5>
-            </div>
-        </div>
-        <div class="col-lg-4 col-md-6 pb-1">
-            <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
-                <p class="text-right">15 Products</p>
-                <a href="" class="cat-img position-relative overflow-hidden mb-3">
-                    <img class="img-fluid" src="img/cat-5.jpg" alt="">
-                </a>
-                <h5 class="font-weight-semi-bold m-0">Bags</h5>
-            </div>
-        </div>
-        <div class="col-lg-4 col-md-6 pb-1">
-            <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
-                <p class="text-right">15 Products</p>
-                <a href="" class="cat-img position-relative overflow-hidden mb-3">
-                    <img class="img-fluid" src="img/cat-6.jpg" alt="">
-                </a>
-                <h5 class="font-weight-semi-bold m-0">Shoes</h5>
-            </div>
-        </div>
-    </div>
-</div> -->
-<!-- Categories End -->
 
 <!-- Products Start -->
 <div class="container-fluid pt-5">
@@ -371,29 +298,6 @@ require_once "inc/topbar.php";
     </div>
 </div>
 
-
-<!-- Subscribe Start -->
-<!-- <div class="container-fluid bg-secondary my-5">
-    <div class="row justify-content-md-center py-5 px-xl-5">
-        <div class="col-md-6 col-12 py-5">
-            <div class="text-center mb-2 pb-2">
-                <h2 class="section-title px-5 mb-3"><span class="bg-secondary px-2">Stay Updated</span></h2>
-                <p>Amet lorem at rebum amet dolores. Elitr lorem dolor sed amet diam labore at justo ipsum eirmod duo labore labore.</p>
-            </div>
-            <form action="">
-                <div class="input-group">
-                    <input type="text" class="form-control border-white p-4" placeholder="Email Goes Here">
-                    <div class="input-group-append">
-                        <button class="btn btn-primary px-4">Subscribe</button>
-                    </div>
-                </div>
-            </form>
-        </div>
-    </div>
-</div> -->
-<!-- Subscribe End -->
-
-
 <!-- Products Start -->
 <div class="container-fluid pt-5">
     <div class="text-center mb-4">
@@ -538,40 +442,6 @@ require_once "inc/topbar.php";
         </div>
     </div>
 </div>
-
-<!-- Vendor Start -->
-<!-- <div class="container-fluid py-5">
-    <div class="row px-xl-5">
-        <div class="col">
-            <div class="owl-carousel vendor-carousel">
-                <div class="vendor-item border p-4">
-                    <img src="assets/img/vendor-1.jpg" alt="">
-                </div>
-                <div class="vendor-item border p-4">
-                    <img src="assets/img/vendor-2.jpg" alt="">
-                </div>
-                <div class="vendor-item border p-4">
-                    <img src="assets/img/vendor-3.jpg" alt="">
-                </div>
-                <div class="vendor-item border p-4">
-                    <img src="assets/img/vendor-4.jpg" alt="">
-                </div>
-                <div class="vendor-item border p-4">
-                    <img src="assets/img/vendor-5.jpg" alt="">
-                </div>
-                <div class="vendor-item border p-4">
-                    <img src="assets/img/vendor-6.jpg" alt="">
-                </div>
-                <div class="vendor-item border p-4">
-                    <img src="assets/img/vendor-7.jpg" alt="">
-                </div>
-                <div class="vendor-item border p-4">
-                    <img src="assets/img/vendor-8.jpg" alt="">
-                </div>
-            </div>
-        </div>
-    </div>
-</div> -->
 
 <?php require_once "inc/footer.php"; ?>
    

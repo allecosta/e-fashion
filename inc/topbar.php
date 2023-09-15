@@ -1,15 +1,6 @@
 <!-- Topbar Start -->
 <div class="container-fluid">
     <div class="row py-2 px-xl-5 topbar">
-        <!-- <div class="col-lg-6 d-none d-lg-block">
-            <div class="d-inline-flex align-items-center">
-                <a class="text-dark" href="">FAQs</a>
-                <span class="text-muted px-2">|</span>
-                <a class="text-dark" href="">Help</a>
-                <span class="text-muted px-2">|</span>
-                <a class="text-dark" href="">Support</a>
-            </div>
-        </div> -->
         <div class="col-lg-7 text-center text-lg-right">
             <div class="d-inline-flex align-items-center">
                 <a class="text-dark px-2" href=""><i class="fab fa-facebook-f topbar-icon"></i></a>
